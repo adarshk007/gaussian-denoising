@@ -13,3 +13,4 @@ denoising experiments in MATLAB.
 6)noise ratio (SSIM) between the original (clean) image and your denoised images.
 
 ******USE INBUILT MATLAB FUNCTIONS FOR IMAGE FILTERING IF U WANT.******
+***the programme takes only window size 3x3,7x7,5x5***
